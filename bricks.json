@@ -1,18 +1,23 @@
+
 [
   {
     "Month": "Aug",
+    "Additional_Bricks": 500,
     "Total_Bricks": 2500
   },
   {
     "Month": "July",
+    "Additional_Bricks": 500,
     "Total_Bricks": 2000
   },
   {
     "Month": "June",
+    "Additional_Bricks": 500,
     "Total_Bricks": 1500
   },
   {
     "Month": "May",
+    "Additional_Bricks": 1000,
     "Total_Bricks": 1000
   }
 ]
